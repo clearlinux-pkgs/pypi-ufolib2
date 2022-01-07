@@ -14,7 +14,7 @@ Requires: pypi-ufolib2-license = %{version}-%{release}
 Requires: pypi-ufolib2-python = %{version}-%{release}
 Requires: pypi-ufolib2-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
-BuildRequires : pluggy
+BuildRequires : pypi(pluggy)
 BuildRequires : py-python
 BuildRequires : pypi(appdirs)
 BuildRequires : pypi(attrs)
@@ -23,7 +23,7 @@ BuildRequires : pypi(setuptools_scm)
 BuildRequires : pypi(wheel)
 BuildRequires : pytest
 BuildRequires : tox
-BuildRequires : virtualenv
+BuildRequires : pypi(virtualenv)
 
 %description
 # ufoLib2
