@@ -1,5 +1,5 @@
 PKG_NAME := pypi-ufolib2
-URL = https://files.pythonhosted.org/packages/bb/40/f1c7478dc30014ac9c3d5eb14dbc693fd23dfd81ed64ea15920839425058/ufoLib2-0.16.0.tar.gz
+URL = https://files.pythonhosted.org/packages/cd/95/3bec185d3712cdc0efc2cf70ec82dd275c5c4f5d505ce6ce4be996b89411/ufolib2-0.16.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
