@@ -7,7 +7,7 @@
 #
 Name     : pypi-ufolib2
 Version  : 0.17.1
-Release  : 23
+Release  : 24
 URL      : https://files.pythonhosted.org/packages/fb/4a/45e392757bd28148d954c7418b99afbed4b45c334b52f42daaceed885aa5/ufolib2-0.17.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/fb/4a/45e392757bd28148d954c7418b99afbed4b45c334b52f42daaceed885aa5/ufolib2-0.17.1.tar.gz
 Summary  : ufoLib2 is a UFO font processing library.
